@@ -55,5 +55,4 @@ To set up the project locally, follow these steps:
 ## Watch the Demo
 Check out the demo of the object detection and distance measurement system:
 
-[Download and Watch the Video](https://github.com/Farhin-saiyed/Object-Detection-and-Distance-measurement
-/output.mp4)
+[Download and Watch the Video](https://github.com/Farhin-saiyed/Object-Detection-and-Distance-measurement/output.mp4)
